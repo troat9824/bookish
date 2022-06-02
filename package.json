@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.6.6",
+    "@apollo/react-hooks": "^4.0.0",
     "apollo-server-express": "^2.15.0"
   }
 }
